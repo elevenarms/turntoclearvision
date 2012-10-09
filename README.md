@@ -1,7 +1,7 @@
 Turn To Clear Vision
 =================
 
-![ScreenShot](https://raw.github.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![ScreenShot](https://github.com/elevenarms/turntoclearvision/raw/master/Assets/readme.JPG)
 
 
 It's not what you look at that matters, it's what you see. -- Thoreau
