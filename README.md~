@@ -13,9 +13,3 @@ On the pier of San Francisco, coin-operated binoculars and telescopes stand wait
 
 
 This project was proposed by Dave Rauchwerk, who makes software and hardware in Austin, Texas. Team members included Stephanie Lie, Jeremy Canfield, Rio Akasaka, Erik Heckman, Stephen Backer.
-
-* Notes: from each individual camera, launch with Google Chrome disabling cross domain:
-
-http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html
-
-open -a Google\ Chrome --args --disable-web-security
